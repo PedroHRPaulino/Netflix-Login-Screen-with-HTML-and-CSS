@@ -1,2 +1,2 @@
 # Netflix-Login-Screen-with-HTML-and-CSS
- Recriei a página de login da Netflix utilizando HTML e CSS
+ Recreated the Netflix login page using HTML and CSS
